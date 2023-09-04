@@ -12,7 +12,7 @@ int menu()
 		cout << "\n4. imprimir productos";
 		cout << "\n5. imprimir clientes";
 		cout << "\n6. imprimir Compras";
-		cout << "\nIngrese una opci髇: ";
+		cout << "\nIngrese una opci贸n: ";
 		cin >> opc;
 	} while (opc < 1 || opc>6);
 	return opc;
@@ -57,12 +57,12 @@ Compra* agregar_compra(Compra* objCompra, ArrCliente* objArrCliente, ArrProducto
 	objArrCliente->info_ArrCliente();
 	cout << "\n\n1. Ingresar cliente existente";
 	cout << "\n2. Ingresar cliente nuevo";
-	cout << "\nOpci髇: "; cin >> opc;
+	cout << "\nOpci贸n: "; cin >> opc;
 	//seleccionamos un cliente
 	switch (opc)
 	{
 	case 1:
-		cout << "\nPosici髇: "; cin >> pos;
+		cout << "\nPosici贸n: "; cin >> pos;
 		objCliente = objArrCliente->get_cliente(pos); break;
 	case 2:objCliente = agregar_cliente(objCliente);
 	}
@@ -73,7 +73,7 @@ Compra* agregar_compra(Compra* objCompra, ArrCliente* objArrCliente, ArrProducto
 	{
 		//mostramos todos los productos que se puede comprar
 		objArrProducto->info_ArrProducto();
-		cout << "\nPosici髇: "; cin >> pos;
+		cout << "\nPosici贸n: "; cin >> pos;
 		//obtenemos un producto del array producto
 		objProducto = objArrProducto->get_Producto(pos);
 		//agregamos un producto al array de productos de compra
@@ -91,9 +91,9 @@ int main()
 	Cliente* objCliente;
 	Producto* objProducto;
 	Compra* objCompra;
-	ArrProducto* objArrProducto = new ArrProducto;
+	ArrProducto* objArrProducto = new ArrProducto();
 	ArrCliente* objArrCliente=new ArrCliente();
-	ArrCompra* objArrCompra=new ArrCompra;
+	ArrCompra* objArrCompra=new ArrCompra();
 	int opc;
 	while (true)
 	{
