@@ -56,7 +56,7 @@ void ArrEclipse::eliminar_eclipse(int pos)
 {
 	Eclipse** aux_Arr = new Eclipse * [size - 1];
 
-	for (int i = 0; i < size; i++)
+	for (int i = 0; i < size-1; i++)
 	{
 		if(i<pos)aux_Arr[i] = Arr[i];
 		else aux_Arr[i] = Arr[i+1];
