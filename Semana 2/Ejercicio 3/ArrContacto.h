@@ -56,7 +56,7 @@ void ArrContacto::eliminar_Contacto(int pos)
 {
 	Contacto** aux_Arr = new Contacto * [size - 1];
 
-	for (int i = 0; i < size; i++)
+	for (int i = 0; i < size-1; i++)
 	{
 		if (i < pos)aux_Arr[i] = Arr[i];
 		else aux_Arr[i] = Arr[i + 1];
