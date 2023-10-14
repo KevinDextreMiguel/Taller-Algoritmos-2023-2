@@ -1,0 +1,12 @@
+﻿  FormPrincipal.cpp
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Jugar.h(38,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Jugar.h(41,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Jugar.h(46,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Jugar.h(49,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Jugar.h(55,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Jugar.h(56,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Jugar.h(64,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Jugar.h(68,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\MyForm.h(21,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  FormPrincipal.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TallerSemana9.vcxproj -> C:\Users\USER\source\repos\TallerSemana9\Debug\TallerSemana9.exe

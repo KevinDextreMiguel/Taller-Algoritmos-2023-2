@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Debug\TallerSemana9.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Debug\TallerSemana9.MyForm.resources
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Debug\TallerSemana9.vcxproj.GenerateResource.cache
+C:\Users\USER\source\repos\TallerSemana9\TallerSemana9\Debug\TallerSemana9.FormPrincipal.resources
