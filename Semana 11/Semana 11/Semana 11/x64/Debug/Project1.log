@@ -1,0 +1,5 @@
+﻿  MyFormPrincipal1.cpp
+D:\Mis archivos\Funda\Clases\Project1\Project1\FormJugar.h(22,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Mis archivos\Funda\Clases\Project1\Project1\FormJugar.h(92,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  MyFormPrincipal1.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project1.vcxproj -> D:\Mis archivos\Funda\Clases\Project1\x64\Debug\Project1.exe
