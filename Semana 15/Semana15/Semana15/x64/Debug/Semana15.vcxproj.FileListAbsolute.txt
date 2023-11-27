@@ -1,0 +1,4 @@
+D:\Mis archivos\Funda\TA\Semana15\Semana15\x64\Debug\Semana15.vcxproj.AssemblyReference.cache
+D:\Mis archivos\Funda\TA\Semana15\Semana15\x64\Debug\Semana15.MyForm.resources
+D:\Mis archivos\Funda\TA\Semana15\Semana15\x64\Debug\Semana15.vcxproj.GenerateResource.cache
+D:\Mis archivos\Funda\TA\Semana15\Semana15\x64\Debug\Semana15.Reporte.resources

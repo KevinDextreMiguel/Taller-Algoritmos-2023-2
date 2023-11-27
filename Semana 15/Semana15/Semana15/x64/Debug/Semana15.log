@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Mis archivos\Funda\TA\Semana15\Semana15\MyForm.cpp(5,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Semana15.vcxproj -> D:\Mis archivos\Funda\TA\Semana15\x64\Debug\Semana15.exe
